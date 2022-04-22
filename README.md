@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Abrolhus
-- 👀 I’m interested in FOSS
+- 👀 I’m interested in Free and Open Source Software
 - 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on <...>
-- 📫 How to reach me <...>
+<!--- - 💞️ I’m looking to collaborate on <...> --->
+<!--- - 📫 How to reach me <...> --->
 
 <!---
 Abrolhus/Abrolhus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
